@@ -17,7 +17,7 @@
    An app for users to post and look at comments
 ## Usage
 
-   This app can be accessed through Heroku deployment
+   This app can be accessed through Heroku deployment <a href="https://pomtechblog-b5aaad2fa751.herokuapp.com/"> here! </a>
 ## License
 
    MIT, https://opensource.org/licenses/MIT
